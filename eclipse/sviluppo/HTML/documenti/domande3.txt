@@ -1,0 +1,213 @@
+﻿cosa è il sistema pubblico di identità digitale?
+
+Quali documenti servono per potere richiedere lo Spid?
+
+Ci sono differenze tra i soggetti a cui posso richiedere Spid?
+
+Come venono trattati i dati che fornisco per richiedere Spid?
+
+Che differenze ci sono tra i tre livelli di sicurezza delle credenziali Spid
+
+E' possibile avere più di una identità digitale?
+
+Come vengono trattati i dati personali?
+
+Perché abbiamo bisogno di identity provider (IdP) e non di una amministrazione pubblica che faccia le stesse cose?
+
+Non bastava il documento digitale unificato (DDU) per provare l’identità digitale?
+
+Perché lo Stato non ha deciso di finanziare l’identità digitale SPID?
+
+SPID sarà un sistema tutto italiano non interoperabile con sistemi di altre nazioni?
+
+Rispetto alle carte elettroniche l’uso delle identità SPID sarà più semplice?
+
+L’uso di SPID assicura la protezione dei dati personali quanto l’uso delle carte elettroniche?
+
+Il cittadino sarà comunque obbligato a usare sempre e comunque lo strumento di autenticazione scelto, così come è obbligato ad usare sempre una carta elettronica?
+
+SPID non è un ulteriore onere economico per le PA?
+
+Quali benefici avranno i service provider privati consentendo l’autenticazione in rete tramite SPID?
+
+Una volta scelto un gestore di identità e ottenuta l’identità, il cittadino sarà indissolubilmente legato a quel soggetto?
+
+Ipotizzando che il cittadino sia dotato di due identità SPID fornite da due diversi gestori, iniziando un processo amministrativo con una identità SPID, dovrà ricordarsi quale identità ha utilizzato per accedere nuovamente a quella PA per seguire la propria pratica o presentare altra documentazione?
+
+Come è protetto il cittadino dalla legge a seguito di un furto di identità SPID perpetrato ai suoi danni?
+
+Un service provider non potrebbe inventarsi di sana pianta che un cittadino ha acceduto ad un servizio ed effettuato determinate azioni dopo essersi autenticato con una identità SPID?
+
+Considerato che il cittadino può dotarsi di diverse identità fornite da diversi gestori, non corre il rischio di avere identità digitali attive di cui ha perso memoria?
+
+E’ prevista una modalità di logout distribuito in SPID?
+
+Quale sarà la validità temporale delle informazioni fornite dal Registro SPID e con che frequenza questo verrà tenuto aggiornato?
+
+In che modo l'IDP o l'SP devono trattare richieste o risposte che non rispettano le specifiche fornite da AgID?
+
+E' prevista una semantica condivisa degli attributi e una nomenclatura dei nomi e dei valori da essi assunti?
+
+Un attributo qualificato potrà essere certificato da un’unica AA oppure potranno essere previste più AA certificanti lo stesso attributo? 
+
+Esiste un tempo massimo di validità delle asserzioni di attributo?
+
+E’ ipotizzabile mantenere separati il processo di registrazione degli utenti e quello di rilascio delle credenziali?
+
+E’ presente un insieme minimo di attributi che gli identity provider sono tenuti a fornire? 
+
+Per ciò che riguarda gli attributi secondari legati alle funzioni di comunicazione con il cittadino, quali di essi saranno obbligatori?
+
+Quali sono i criteri da seguire in SPID per l’individuazione, a partire da un determinato attributo, dell’ AA in grado di certificarlo?
+
+quali sono le caratteristiche del servizio?
+
+in cosa consiste lo spid?
+
+quali sono i soggetti coinvolti nello spid?
+
+quali sono gli attori coinvolti nello spid?
+
+Quanti tipi di credenziali di accesso sono previsti?
+
+in quanti modi diversi posso fornire le mie credenzali?
+
+A che serve spid al cittadino?
+
+a cosa serve ai cittadini?
+
+A che serve lo spid alle imprese?
+
+a cosa serve alle imprese?
+
+perchè le imprese devono avere lo spid?
+
+A che serve lo spid ai professionisti?
+
+perchè i professionisti devono evere lo spid?
+
+Quali sono i servizi a cui posso accedere attraverso lo spid?
+
+a quali pa posso accedere?
+
+con spid posso usare i servizi INPS?
+
+posso accedere a INPS?
+
+posso accedere al portale inps invece che con il pin?
+
+con spid posso usare i servizi INAIL?
+
+posso accedere a INAIL?
+
+con spid posso usare i servizi MEF?
+
+posso accedere all'agenzia delle entrate?
+
+con spid posso usare i servizi Giustizia?
+
+posso accedere al ministero di giustizia?
+
+posso accedere al portale giustizia?
+
+con spid posso usare i servizi del ministero di istruzione salute e sport?
+
+posso accedere al portale ministero salute?
+
+posso accedere al miur?
+
+con spid posso accedere al ministero della salute?
+
+con spid posso usare i servizi delle regioni e delle città?
+
+posso accedere al portale delle regioni?
+
+posso accedere ai servizi della mia regione?
+
+posso accedere al portale Lazio?
+
+posso accedere al portale Calabria?
+
+posso accedere al portale Basilicata?
+
+posso accedere al portale campania?
+
+posso accedere al portale Puglia?
+
+posso accedere al portale Molise?
+
+posso accedere al portale Abbruzzo?
+
+posso accedere al portale Umbria?
+
+posso accedere al portale Toscana?
+
+posso accedere al portale Veneto?
+
+posso accedere al portale Liguria?
+
+posso accedere al portale Emilia Romagna?
+
+Posso accedere al portale Lombardia?
+
+posso accedere al portale valle d'aosta?
+
+posso accedera al portale Veneto?
+
+posso accedere al portale Trentino Alto adige?
+
+posso accedere ai portali comunali, delle città?
+
+posso accedere ai servizi del mio comune?
+
+con spid posso usare i servizi del ministero dei trasporti?
+
+quali sono i vantaggi dello spid?
+
+come si ottiene lo spid con aruba ?
+
+come faccio ad verlo con aruba?
+
+mi piacerebbe vere spid con aruba
+
+anche le grandi aziende possono richiedere lo spid? quali sono i vantaggi?
+
+come si ottiene lo spid con poste?
+
+vorei prendere lo spid con poste
+
+come si ottiene lo spid con tim (sielte)?
+
+vorrei prendere lo spid con sielte
+
+come si ottiene lo spid con tim (TI Trust Technologies S.r.l.)?
+
+vorrei prendere lo spid con TI Trust technologies
+
+qual è il modo più semplice di ottenerlo?
+
+posso ottenere lo spid da casa?
+
+posso farlo da casa?
+
+posso avere lo spid senza muovermi da casa?
+
+a che punto è lo spid?
+
+qual è la diffusiuone dello spid?
+
+mi dicono che ha a che fare con il bonus cultura (18app) come funziona?
+
+serve per la carta del docente?
+
+serve per il bonus ai diciottenni?
+
+ho 18 anni coma faccio ad ottenere lo spid?
+
+
+
+
+
+
+
+

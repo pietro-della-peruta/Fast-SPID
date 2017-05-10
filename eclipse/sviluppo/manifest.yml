@@ -1,0 +1,13 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: eu-gb.mybluemix.net
+  name: Aprile
+  host: Aprile
+  disk_quota: 1024M
+  services:
+    - Cloudant NoSQL DB-wr
+    - Conversation-r9
+    - Text to Speech-zz
+    - Retrieve and Rank-vn

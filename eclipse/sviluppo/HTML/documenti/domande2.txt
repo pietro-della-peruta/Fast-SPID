@@ -1,0 +1,30 @@
+﻿Perché abbiamo bisogno di identity provider (IdP) e non di una amministrazione pubblica che faccia le stesse cose?
+L’uso di SPID assicura la protezione dei dati personali quanto l’uso delle carte elettroniche?
+Il cittadino sarà comunque obbligato a usare sempre e comunque lo strumento di autenticazione scelto, così come è obbligato ad usare sempre una carta elettronica?
+Una volta scelto un gestore di identità e ottenuta l’identità, il cittadino sarà indissolubilmente legato a quel soggetto?
+Come è protetto il cittadino dalla legge a seguito di un furto di identità SPID perpetrato ai suoi danni?
+Considerato che il cittadino può dotarsi di diverse identità fornite da diversi gestori, non corre il rischio di avere identità digitali attive di cui ha perso memoria?
+Non bastava il documento digitale unificato (DDU) per provare l’identità digitale?
+3 LIVELLI DI PROTEZIONE NON SARANNO TROPPO POCHI?
+COME AVVIENE IL PROCESSO DI RICONOSCIMENTO? È NECESSARIA UNA WEBCAM?
+COME È PROTETTO DALLA LEGGE IL CITTADINO IN CASO DI FURTO DI IDENTITÀ?
+Un mio conoscente non ha il cellulare può fare lo SPID lostesso ?
+come si fa a modificare lo spid?
+A chi mi devo rivolgere e cosa devo fare per ottenere SPID?
+Quali documenti mi servono per poter richiedere SPID?
+A chi mi devo rivolgere e cosa devo fare per ottenere SPID?
+SPID è gratuito?
+Esistono anche altre modalità per ottenere SPID?
+Ci sono differenze tra i soggetti a cui posso decidere di richiedere SPID?
+Chi può richiedere SPID?
+Può avere SPID anche un cittadino italiano residente all’estero?
+Come vengono trattati i dati che fornisco per richiedere SPID?
+Ho perso le mie credenziali SPID, cosa devo fare per farmele rimandare?
+Posso annullare la richiesta dell’identità ad un identity provider e sceglierne un altro ?
+Una società può ottenere SPID ?
+Tutte le amministrazioni consentiranno l’accesso ai propri servizi tramite SPID?
+
+
+
+
+
