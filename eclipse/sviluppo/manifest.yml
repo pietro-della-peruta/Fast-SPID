@@ -3,8 +3,8 @@ applications:
   memory: 256M
   instances: 1
   domain: eu-gb.mybluemix.net
-  name: Aprile
-  host: Aprile
+  name: SPID
+  host: SPID
   disk_quota: 1024M
   services:
     - Cloudant NoSQL DB-wr

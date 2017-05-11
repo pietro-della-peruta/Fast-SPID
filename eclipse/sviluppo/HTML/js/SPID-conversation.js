@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-// Aprile-conversation.js
+// SPID-conversation.js
 // browser support for conversation
 
 var _input;
@@ -47,7 +47,7 @@ function getResponse(_text)
    options.context = _context;
    $.when($.post("/api/response", options)).then(
      function(res, _type, _jqXHR)
-     {console.log("Aprile-conversations.js getMessage Success res"+res);
+     {console.log("SPID-conversations.js getMessage Success res"+res);
 //aggiunta da ennio la parte di speech to text
 if(res.output.text!=undefined){
 	speak (res.output.text,_a_player_target,false);
@@ -67,7 +67,7 @@ else {_conversation.append('<div class="shape bubble2"><p>'
 	options.question = _text;
 	$.when($.post("/api/rr", options)).then(
 			function(res, _type, _jqXHR) {
-				console.log("Aprile-conversations.js getMessage Failure res" + res);
+				console.log("SPID-conversations.js getMessage Failure res" + res);
 				var vaia = "<a href=" + '"./documenti/'+encodeURIComponent(res[0].fileName)+'"'+' target="_blank">'
 				if (res[1] !== undefined) {var vaia2 = "<a href=" + '"./documenti/'+encodeURIComponent(res[1].fileName)+'"'+' target="_blank">'} else
 					{var vaia2 = "<a";
@@ -93,7 +93,7 @@ else {_conversation.append('<div class="shape bubble2"><p>'
 			              "</p></div>");
 			},
 			function(res, _type, _jqXHR) {
-				console.log("Aprile-conversations.js getMessage Failure res"+res);
+				console.log("SPID-conversations.js getMessage Failure res"+res);
 			      _conversation.append('<div class="shape bubble2">CASO 2<p>'+res+"</p></div>");
 			}
 	);
@@ -101,7 +101,7 @@ else {_conversation.append('<div class="shape bubble2"><p>'
 }
      },
    function(res, _type, _jqXHR)
-     { console.log("Aprile-conversations.js getMessage Failure res.responseText"+res.responseText);
+     { console.log("SPID-conversations.js getMessage Failure res.responseText"+res.responseText);
       _conversation.append('<div class="shape bubble2"><p>'+res.responseText+"</p></div>");
      });
  }

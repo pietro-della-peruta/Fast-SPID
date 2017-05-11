@@ -25,17 +25,12 @@ var cfenv = require('cfenv');
 
 var cookieParser = require('cookie-parser');
 var session = require('express-session');
-//var cloudant = require('cloudant');
-//var myDB = require('./controller/restapi/features/cloudant_utils');
-//myDB.authenticate(myDB.create, '');
-//var sessionBase  = require('./controller/sessionManagement');
-//var sessionStore = Object.create(sessionBase.SessionObject);
 
 var vcapServices = require('vcap_services');
 var watson = require('watson-developer-cloud');
 var uuid = require('uuid');
 var env = require('./controller/env.json');
-var sessionSecret = env.sessionSecret;
+//var sessionSecret = env.sessionSecret;
 var gmailCredentials = env.gmail;
 var appEnv = cfenv.getAppEnv();
 var app = express();
@@ -43,13 +38,13 @@ var busboy = require('connect-busboy');
 app.use(busboy());
 
 
-app.use(cookieParser(sessionSecret));
-app.use( session( {
+//app.use(cookieParser(sessionSecret));
+//app.use( session( {
 //    store: sessionStore,
-    secret: sessionSecret, resave: false, saveUninitialized: true,
-    cookie: {secure: true, maxAge:24*60*60*1000},
-    genid: function (req) {return uuid.v4();}
-  }));
+//    secret: sessionSecret, resave: false, saveUninitialized: true,
+//    cookie: {secure: true, maxAge:24*60*60*1000},
+//    genid: function (req) {return uuid.v4();}
+//  }));
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
